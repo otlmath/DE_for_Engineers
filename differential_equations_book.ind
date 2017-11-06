@@ -1,0 +1,117 @@
+\begin{theindex}
+
+  \item amplitude, \hyperpage{56}
+  \item angular frequency, \hyperpage{55}
+
+  \indexspace
+
+  \item boundary condition, \hyperpage{118}
+
+  \indexspace
+
+  \item characteristic equation, \hyperpage{41}
+  \item critically damped, \hyperpage{54}
+
+  \indexspace
+
+  \item differential equation, \hyperpage{5}
+
+  \indexspace
+
+  \item eigenfunction, \hyperpage{98}
+  \item eigenvalue, \hyperpage{87}, \hyperpage{98}
+  \item eigenvector, \hyperpage{87}
+  \item endpoint value problem, \hyperpage{95}
+  \item even function, \hyperpage{102}
+  \item exact, \hyperpage{30}
+  \item exact differential equation, \hyperpage{30}
+  \item existence of solutions, \hyperpage{34}
+
+  \indexspace
+
+  \item first order linear differential equation, \hyperpage{18}
+  \item Frobenius Method, \hyperpage{71}
+  \item Frobenius solution, extended, \hyperpage{73}
+
+  \indexspace
+
+  \item heat equation, \hyperpage{118}
+
+  \indexspace
+
+  \item indicial equation, \hyperpage{77}
+  \item initial condition of ODE, \hyperpage{6}, \hyperpage{34}
+  \item initial condition of PDE, \hyperpage{118}
+  \item initial value problem, \hyperpage{6}
+  \item irregular singular point, \hyperpage{76}
+
+  \indexspace
+
+  \item linear combination, \hyperpage{34}
+  \item linear operator, \hyperpage{39}
+  \item linearly dependent, \hyperpage{35}
+  \item linearly independent, \hyperpage{35}
+
+  \indexspace
+
+  \item mechanical vibration, \hyperpage{54}
+  \item multiplier for first order linear DE, \hyperpage{20}
+
+  \indexspace
+
+  \item natural angular frequency, \hyperpage{59}
+
+  \indexspace
+
+  \item odd function, \hyperpage{102}
+  \item order, \hyperpage{5}
+  \item ordinary point, \hyperpage{76}
+  \item over-damped, \hyperpage{54}
+
+  \indexspace
+
+  \item phase angle, \hyperpage{56}
+  \item phase shift, \hyperpage{58}
+  \item power series, \hyperpage{64}
+  \item power series solution, \hyperpage{68}
+  \item pseudo-angular frequency, \hyperpage{58}
+  \item pseudoperiod, \hyperpage{58}
+
+  \indexspace
+
+  \item regular singular point, \hyperpage{76}
+  \item resonance, \hyperpage{60}
+
+  \indexspace
+
+  \item separable equation, \hyperpage{9}
+  \item separation of variables, \hyperpage{122}
+  \item shifting of indices, \hyperpage{66}
+  \item singular point, \hyperpage{76}
+  \item spring-mass-dashpot system, \hyperpage{54}
+  \item standard form, of first order linear DE , \hyperpage{19}
+  \item steady periodic solution, \hyperpage{59}
+  \item Sturm-Liouville problem, \hyperpage{97}
+  \item superposition, \hyperpage{34}
+
+  \indexspace
+
+  \item Table of Laplace Transforms, \hyperpage{136}
+  \item transient solution, \hyperpage{59}
+  \item trivial solution, \hyperpage{123}
+
+  \indexspace
+
+  \item under-damped, \hyperpage{54}
+  \item uniqueness of solutions, \hyperpage{34}
+
+  \indexspace
+
+  \item variation of parameters, \hyperpage{50}
+
+  \indexspace
+
+  \item wave equation, \hyperpage{130}
+  \item Wronskian, \hyperpage{38}
+
+\end{theindex}
