@@ -93,12 +93,12 @@ $$3= A(x^2+1)+(Bx+C)x=(A+B)x^2+Cx+A$$
 In order for $3=(A+B)x^2+Cx+A$ for all $x$, we need $A+B=0$, $C=0$ and $A=3$. Thus the solution is $A=3$, $B=-3$, $C=0$, and the result is an algebraic identity:
 $$\frac{3}{x^3+x} = \frac{3}{x}+\frac{-3x}{x^2+1}$$
 Since we want the integral of the left side, we have:
-$$\int \frac{3}{x^3+x} dx =\int \frac{3}{x}+\frac{-3x}{x^2+1} dx = 3 \ln x -\frac{3}{2} \ln {x^2+1} +C $$
+$$\int \frac{3}{x^3+x} dx =\int \frac{3}{x}+\frac{-3x}{x^2+1} dx = 3 \ln x -\frac{3}{2} \ln {(x^2+1)} +C $$
 The last integral was done by using u-substitution with $$u=x^2+1$$.
 Finally, the initial condition $ y(1)=0$ turns into the equation:
 $$3 \ln 1 -\frac{3}{2} \ln 2 +C = 0$$
 Since $\ln 1=0$, we get $C= \frac{3}{2} \ln 2$, and the answer is:
-$$y = 3 \ln x -\frac{3}{2} \ln {x^2+1} + \frac{3}{2} \ln 2$$ 
+$$y = 3 \ln x -\frac{3}{2} \ln {(x^2+1)} + \frac{3}{2} \ln 2$$ 
 
 Since integration is needed in order to solve direct integral problems, you will need to review various methods of integrations such as integration by parts, integration by substitution, partial fraction expansion, etc.
 
